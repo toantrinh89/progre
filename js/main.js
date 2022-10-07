@@ -147,15 +147,15 @@ const projectBaseData = {
 }
 
 const itemBaseData = {
-    "Homeless": {name: "Homeless", expense: 0, effect: 3},
-    "Tent": {name: "Tent", expense: 15, effect: 6},
-    "Wooden hut": {name: "Wooden hut", expense: 100, effect: 12},
-    "Cottage": {name: "Cottage", expense: 750, effect: 24},
-    "House": {name: "House", expense: 3000, effect: 48},
-    "Large house": {name: "Large house", expense: 2500, effect: 100},
-    "Small Manor": {name: "Small Manor", expense: 30000, effect: 200},
-    "Small palace": {name: "Small palace", expense: 500000, effect: 400},
-    "Grand palace": {name: "Grand palace", expense: 19000000, effect: 800},
+    "Homeless": {name: "Homeless", expense: 0, effect: 5},
+    "Tent": {name: "Tent", expense: 15, effect: 15},
+    "Wooden hut": {name: "Wooden hut", expense: 100, effect: 45},
+    "Cottage": {name: "Cottage", expense: 750, effect: 120},
+    "House": {name: "House", expense: 3000, effect: 250},
+    "Large house": {name: "Large house", expense: 2500, effect: 700},
+    "Small Manor": {name: "Small Manor", expense: 30000, effect: 2000},
+    "Small palace": {name: "Small palace", expense: 500000, effect: 6000},
+    "Grand palace": {name: "Grand palace", expense: 19000000, effect: 15000},
 
     //Cameron's first addition: rag clothing. Woohoo!
     "Rag Clothing": {name: "Rag Clothing", expense: 3, effect: 5, description: "Skill xp"},
